@@ -5,12 +5,9 @@ A ideia deste desafio é elaborar um website, utilizando uma estrutura bem bási
 
 Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
 
-Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto)
+Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` 
 
-Importante dizer que, estas tags te "seguirão" durante TODO O CURSO, por isso, é bom que esteja bem aprendidas para aproveitarem ao máximo as próximas aulas.
+#Descrição do Projeto 
 
-Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você vai evoluindo na sua jornada.
+Para treinar as tags que foram apresentadas no curso, desenvolvi uma home page simulando o tema de uma palestra. Como parte dos meus estudos para aprofundar minhas habilidades, inclui uma formatação em CSS. 
 
-Após concluído este desafio! Siga para o <strong>Módulo II - Conceitos Básicos.</strong>
-
-Nos vemos lá!
